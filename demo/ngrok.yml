@@ -1,6 +1,6 @@
 tunnels:
   vc-authn-controller:
-    addr: 5001
+    addr: 5002
     proto: http
     bind-tls: true
   vc-authn-agent:
